@@ -1,4 +1,4 @@
-# OptimizationInFinance
+## Optimization in Finance
 
 This repository provides companion Excel and MATLAB code for the book 
 by G. Cornuejols, J. Pena, and R. Tutuncu, "Optimization Methods in Finance", 
